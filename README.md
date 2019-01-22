@@ -7,7 +7,7 @@ So here I want to list some resources, which helped me a lot to understand and b
 
 
 
-### [websites]
+### websites
 * [Android Arsenal] - just search for ...
 * [android.com] - official developer documentation
 * [kotlinlang.org] - official kotlin site
