@@ -1,5 +1,5 @@
 # My Awesome kotlin Android list
-### *PREFACE*
+## *PREFACE*
 For a reason, I needed to learn how to build an android app. As I already know how to code in java and kotlin is rising in popularity, I took it as a chance to learn this new and beautiful language - KOTLIN.
 Never having developed a native android app before, it was difficult to learn both. 
 
@@ -7,25 +7,25 @@ So here I want to list some resources, which helped me a lot to understand and b
 
 
 
-### websites
+## websites
 * [Android Arsenal] - just search for ...
 * [android.com] - official developer documentation
 * [kotlinlang.org] - official kotlin site
-### videos
+## videos
 * [How to Kotlin - Google I/O '18] 
 * [yt channel: Reso Coder] 
 *  [yt channel: EDMT Dev] 
 *  [yt channel: CodeAndroid] 
 *  [yt channel: Coding in Flow]
 *  [yt channel: Apps In The Sky]
-### git-repos
-#### - finished projects to learn from
-* [JetBrains/kotlinconf-app] - maybe one of the best examples for ANKO 
+## git
+### - finished projects to learn from
+* [JetBrains/kotlinconf-app] - maybe one of the best examples (for [Kotlin/anko]) 
 * [webianks/BlueChat] - bluetooth chat : learn bluetooth and customized layout
 * [CapTechMobile/TransportDirectory] - learn JetPack's Room, ViewModel, LiveData, and WorkManager.
 * [abhinav272/NewsApp] - learn JetPack's Room, ViewModel, LiveData, and WorkManager.
  
-#### - nice libraries
+### - nice libraries
 * [KotlinBy/awesome-kotlin] - an awesome kotlin list
 * [Kotlin/anko] - library which makes Android application development faster and easier
 * [TheJuki/KFormMaster] - Generic form builder
@@ -35,7 +35,7 @@ So here I want to list some resources, which helped me a lot to understand and b
 * [sephiroth74/Material-BottomNavigation] - Bottom Navigation widget component 
 * [thomasnield/kotlin-data-science-resources] - use Kotlin for data science
 
-### books
+## books
 * **Marcin Moskala & Igor Wojda**: Android Development with Kotlin from packt publishing
 * **Antinio Leiva**: KOTLIN for Android Developer - *learn kotlin the easy way while developing an Android App.*
 
